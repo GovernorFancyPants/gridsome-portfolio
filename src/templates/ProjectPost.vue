@@ -22,7 +22,7 @@
 
             <div class="year-container">
               <span class="label">Year</span>
-              <div v-html="$page.post.date"/>
+              <div v-html="$page.post.year" />
             </div>
           </div>
         </div>
@@ -40,6 +40,7 @@ query ProjectPost ($path: String!) {
   post: projectPost (path: $path) {
     title
     date (format: "YYYY")
+    year
     content
     categories
     project_bg_color

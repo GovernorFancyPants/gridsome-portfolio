@@ -1,6 +1,6 @@
 ---
 date: 2019-05-16
-year: 2019 - Ongoing
+year: '2019 - Ongoing'
 title: Asurgent
 category: Identity
 thumbnail: "/uploads/asurgent-bakgrund-liggande.png"
