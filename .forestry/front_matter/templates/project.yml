@@ -35,6 +35,11 @@ fields:
   config:
     color_format: Hex
   label: Foreground color
+- name: year
+  type: text
+  config:
+    required: false
+  label: Year
 pages:
 - projects/3d-graff.md
 - projects/chelsea-landmark.md
