@@ -3,10 +3,10 @@
 
 module.exports = {
   siteName: "Portfolio",
-  siteUrl: `https://www.itsnwa.com`,
+  siteUrl: `https://portfolio.tobiasjohansson.se`,
   host: "0.0.0.0",
-  titleTemplate: "%s - NWA",
-  siteDescription: "Creative technologist",
+  titleTemplate: "%s - TJ",
+  siteDescription: "Web & Graphic Designer",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
@@ -19,19 +19,20 @@ module.exports = {
           externalLinksRel: ["nofollow", "noopener", "noreferrer"]
         }
       }
-    },
-    {
-      use: "@gridsome/source-filesystem",
-      options: {
-        path: "journal/**/*.md",
-        typeName: "JournalPost",
-        resolveAbsolutePaths: true,
-        remark: {
-          externalLinksTarget: "_blank",
-          externalLinksRel: ["nofollow", "noopener", "noreferrer"]
-        }
-      }
     }
+    // },
+    // {
+    //   use: "@gridsome/source-filesystem",
+    //   options: {
+    //     path: "journal/**/*.md",
+    //     typeName: "JournalPost",
+    //     resolveAbsolutePaths: true,
+    //     remark: {
+    //       externalLinksTarget: "_blank",
+    //       externalLinksRel: ["nofollow", "noopener", "noreferrer"]
+    //     }
+    //   }
+    // }
   ],
   transformers: {
     remark: {
