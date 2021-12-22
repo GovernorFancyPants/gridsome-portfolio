@@ -21,7 +21,7 @@ fields:
     export_format: YYYY-MM-DD
     display_utc: true
   default: now
-  hidden: true
+  hidden: false
 - type: text
   name: year
   label: Year
@@ -38,11 +38,7 @@ fields:
   config:
     color_format: Hex
   label: Foreground color
-- name: year
-  type: text
-  config:
-    required: false
-  label: Year
 pages:
 - projects/3d-graff.md
 - projects/asurgent.md
+- projects/behaviosec.md
