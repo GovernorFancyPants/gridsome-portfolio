@@ -45,6 +45,7 @@ fields:
   label: Year
 pages:
 - projects/3d-graff.md
+- projects/asurgent.md
 - projects/chelsea-landmark.md
 - projects/ios-concept.md
 - projects/sunk.md
