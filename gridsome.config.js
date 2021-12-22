@@ -19,20 +19,19 @@ module.exports = {
           externalLinksRel: ["nofollow", "noopener", "noreferrer"]
         }
       }
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "journal/**/*.md",
+        typeName: "JournalPost",
+        resolveAbsolutePaths: true,
+        remark: {
+          externalLinksTarget: "_blank",
+          externalLinksRel: ["nofollow", "noopener", "noreferrer"]
+        }
+      }
     }
-    // },
-    // {
-    //   use: "@gridsome/source-filesystem",
-    //   options: {
-    //     path: "journal/**/*.md",
-    //     typeName: "JournalPost",
-    //     resolveAbsolutePaths: true,
-    //     remark: {
-    //       externalLinksTarget: "_blank",
-    //       externalLinksRel: ["nofollow", "noopener", "noreferrer"]
-    //     }
-    //   }
-    // }
   ],
   transformers: {
     remark: {
