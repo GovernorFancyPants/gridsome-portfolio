@@ -8,7 +8,7 @@ categories:
 - CSS
 - Illustrator
 - Photoshop
-project_bg_color: ''
+project_bg_color: "#FAFAFA"
 project_fg_color: ''
 
 ---
