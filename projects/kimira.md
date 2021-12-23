@@ -1,6 +1,6 @@
 ---
 date: 2021-12-23
-thumbnail: ''
+thumbnail: "/uploads/8cf489f5-77a5-4b86-8cff-e5a7d3961b43_rw_1920.png"
 title: Kimira
 year: "2017"
 categories:
