@@ -16,7 +16,7 @@ project_fg_color: ''
 
 BehavioSec delivers security solutions based on user behaviour, so called behavioral biometrics.
 
-# Demo app
+### Demo app
 
 I was tasked to design a three step app to demonstrate behavioral biometrics at exhibitions. A simple linear flow with a clear outcome demonstrating the functionality.
 
