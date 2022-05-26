@@ -22,3 +22,5 @@ For their new 2022 collection I helped them with a social media campaign showcas
 ![](/uploads/curlynak-collage.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pF8ObGPntbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZWvhsaSwhfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
