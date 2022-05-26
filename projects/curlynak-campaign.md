@@ -11,4 +11,12 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-Curlynak
+# Curlynak campaign
+
+Curlynak is a sock brand born in Chamonix and manufactured in France. They make high quality socks for outdoor adventures including trail running, cycling and mountaineering. It's a family owned company who pride themselves in high quality and comfort above all.
+
+## The campaign
+
+For their new 2022 collection I helped them with a social media campaign showcasing their products. The campaign included photos and two videos to be used for social media and for product showcase.
+
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/t7f_mEfgOgI](https://www.youtube.com/embed/t7f_mEfgOgI "https://www.youtube.com/embed/t7f_mEfgOgI")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
