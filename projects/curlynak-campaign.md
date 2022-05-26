@@ -2,7 +2,7 @@
 date: 2022-05-26
 thumbnail: "/uploads/curlynak.jpg"
 title: Curlynak campaign
-year: ''
+year: "2022"
 categories:
 - photography
 - film production
@@ -13,7 +13,7 @@ project_fg_color: ''
 ---
 # Curlynak
 
-Curlynak is a sock brand born in Chamonix and manufactured in France. They make high quality socks for outdoor adventures including trail running, cycling and mountaineering. It's a family owned company who pride themselves in high quality and comfort above all.
+Curlynak is a sock brand born in the valley of Chamonix and manufactured in France. They make high quality socks for outdoor adventures including trail running, cycling and mountaineering. It's a family owned company who pride themselves in high quality and comfort above all.
 
 ### The campaign
 
