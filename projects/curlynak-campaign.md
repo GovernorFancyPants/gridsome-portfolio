@@ -1,6 +1,6 @@
 ---
 date: 2022-05-26
-thumbnail: "/uploads/curlynak.jpg"
+thumbnail: "/uploads/curlynak-cover.jpg"
 title: Curlynak
 year: "2022"
 categories:
