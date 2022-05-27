@@ -1,7 +1,7 @@
 ---
 date: 2022-05-26
 thumbnail: "/uploads/curlynak.jpg"
-title: Curlynak campaign
+title: Curlynak
 year: "2022"
 categories:
 - photography
@@ -15,7 +15,7 @@ project_fg_color: ''
 
 Curlynak is a sock brand born in the valley of Chamonix and manufactured in France. They make high quality socks for outdoor adventures including trail running, cycling and mountaineering. It's a family owned company who pride themselves in high quality and comfort above all.
 
-### The campaign
+### Campaign for the 2022 collection
 
 For their new 2022 collection I helped them with a social media campaign showcasing their products. The campaign included photos and two videos to be used for social media and for product showcase.
 
